@@ -1,0 +1,7 @@
+{
+  "name": "Post-Floating Vendor Management Prototype",
+  "description": "Enterprise procurement auction screen with clear differentiation between locked pre-float vendors and removable post-float vendors.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
